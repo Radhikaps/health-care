@@ -2,16 +2,16 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: insureme
+  name: healthcare
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: insureme
+      app: healthcare
   template:
     metadata:
       labels:
-        app: insureme
+        app: healthcare
     spec:
       containers:
         - name: insurance
@@ -25,11 +25,11 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: insureme
+  name: healthcare
 spec:
   type: NodePort
   ports:
     - port: 8081
       targetPort: 8081
   selector:
-    app: insureme
+    app: healthcare
