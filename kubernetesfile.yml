@@ -14,7 +14,7 @@ spec:
         app: healthcare
     spec:
       containers:
-        - name: insurance
+        - name: myhealthcare
           image: radhikaps/healthcare:latest
           ports:
             - containerPort: 8081
