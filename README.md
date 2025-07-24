@@ -1,4 +1,4 @@
-Healthcare Industry – Domain Knowledge 
+dHealthcare Industry – Domain Knowledge 
 The Healthcare Industry (also called the medical industry or health economy) is one of the largest 
 industries in the world, having direct effect on the quality of life of people in each country. Health care 
 (or healthcare) is the diagnosis, treatment, and prevention of disease, illness, injury, and other physical 
@@ -9,3 +9,4 @@ rehabilitative or palliative care. In this section you will find the definitions
 organizational and disciplinary perspectives of this industry. This section is designed to help learners 
 understand key concepts, terminology, issues, and challenges associated with the health care industry, 
 and strategies employed to meet some of those challenges.
+ddddd
